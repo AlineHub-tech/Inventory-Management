@@ -3,7 +3,6 @@
 A Full-Stack Inventory Management System built using Node.js, Express, MongoDB, and React.js.
 It helps store owners manage product categories, products, and stock levels efficiently through a secure, modern web dashboard.
  Features
-
 ✅ Authentication & Authorization
 
 JWT-based authentication (Admin & Normal User roles)
@@ -13,7 +12,6 @@ Passwords hashed using bcryptjs
 Admin can add, edit, and delete data
 
 Normal users can only view
-
 
 ✅ Products & Categories Management
 
